@@ -6,5 +6,6 @@ for row in range(0,7):
                 else:
                         str=str+'  '
         str=str+'\n'
-print(str)    
+print(str)
+print("hey")
                     
